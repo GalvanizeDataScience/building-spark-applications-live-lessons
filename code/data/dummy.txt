@@ -1,0 +1,6 @@
+jon 2
+mary 3
+anna 1
+jon 1
+jesse 3
+mary 5
