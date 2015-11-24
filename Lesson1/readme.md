@@ -48,6 +48,7 @@ And all along the way you learn the common paradigms and abstractions Spark leve
 * [Spark: Cluster Computing with Working Sets (original paper)][13]
 * [About Databricks][14]
 * [The Apache Software Foundation Announces Apache™ Spark™ as a Top-Level Project][15]
+* [Apache Spark’s journey from academia to industry](http://radar.oreilly.com/2014/12/apache-sparks-journey-from-academia-to-industry.html)
 * [The State of Spark: And where we are going next](https://spark-summit.org/2013/wp-content/uploads/2013/10/Zaharia-spark-summit-2013-matei.pdf)
 
 ### 1.4: Why Spark?

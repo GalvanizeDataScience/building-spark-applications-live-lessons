@@ -36,6 +36,7 @@ With properly vectorized data, you implement your own machine learning model wit
 ### 3.1: How Spark Fits into the Data Science Process
 
 * [Quora: What is the work flow or process of a data scientist?][1]
+* [Stitch Fix: Rapid Development & Performance in Spark For Data Scientists][1.1]
 
 ### 3.2: Introduction to Exploratory Data Analysis
 
@@ -89,6 +90,7 @@ With properly vectorized data, you implement your own machine learning model wit
 * [IOM 530: Intro. to Statistical Learning][28]
 * [Kaggle: Data Science Use Cases][29]
 * [Visualizing k-means Clustering][30]
+* [K-Medoids](http://www.stat.cmu.edu/~ryantibs/datamining/lectures/04-clus1-marked.pdf)
 
 ### 3.10: Unsupervised Learning with Spark: Implementing k-means
 
@@ -103,8 +105,10 @@ With properly vectorized data, you implement your own machine learning model wit
 * [Stack Exchange: Meaning of Latent Features?][33]
 * [Finding the K in k-means Clustering][34]
 * [Silhouettes: A graphical aid to the interpretation and validation of cluster analysis][35]
+* [Scalable K-Means++](http://theory.stanford.edu/~sergei/papers/vldb12-kmpar.pdf)
 
 [1]: https://www.quora.com/What-is-the-work-flow-or-process-of-a-data-scientist
+[1.1]: http://multithreaded.stitchfix.com/blog/2015/10/06/spark-for-data-science/
 [2]: http://columbiadatascience.com/doing-data-science/
 [3]: http://www.amazon.com/Exploratory-Data-Analysis-John-Tukey/dp/0201076160
 [4]: http://www.donorschoose.org/

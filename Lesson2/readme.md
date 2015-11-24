@@ -54,6 +54,7 @@ And finally, you see how by adding structure to your data with Spark SQL, you ca
 ### 2.6: SparkR: Aggregations and Analysis
 
 * [Spark Docs (1.4.1): SparkR API][9]
+* [R Basic Data Types][9.1]
 
 ### 2.7: SparkR: Visualizing Data with ggplot2
 
@@ -83,6 +84,7 @@ And finally, you see how by adding structure to your data with Spark SQL, you ca
 [7]: http://projects.fivethirtyeight.com/flights/
 [8]: https://spark-summit.org/2015/events/sparkr-the-past-the-present-and-the-future/
 [9]: http://spark.apache.org/docs/1.4.1/api/R/
+[9.1]: http://www.r-tutor.com/r-introduction/basic-data-types
 [10]: http://ggplot2.org/
 [11]: http://ggplot2.org/resources/2007-vanderbilt.pdf
 [12]: http://spark.apache.org/docs/1.4.1/sql-programming-guide.html
