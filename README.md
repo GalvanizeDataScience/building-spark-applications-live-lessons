@@ -130,5 +130,5 @@ Spark Streaming, deploying Spark to EC2?
 [2]: https://gitter.im/zipfian/building-spark-applications-live-lessons
 [3]: http://data.donorschoose.org/
 [4]: http://kdd.org/kdd-cup/view/kdd-cup-2009/Data
-[5]:https://s3.amazonaws.com/galvanize-example-data/spark-live-lessons-data.zip
+[5]: https://s3.amazonaws.com/galvanize-example-data/spark-live-lessons-data.zip
 
