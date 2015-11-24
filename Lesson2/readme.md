@@ -23,6 +23,7 @@ And finally, you see how by adding structure to your data with Spark SQL, you ca
 ### 2.1: Introduction to the Spark Programming APIs
 
 * [PySpark Internals][1]
+* [A deeper understanding of Spark's internals](https://spark-summit.org/2014/wp-content/uploads/2014/07/A-Deeper-Understanding-of-Spark-Internals-Aaron-Davidson.pdf)
 
 ### 2.2: PySpark: Loading and Importing Data
 
@@ -37,6 +38,7 @@ And finally, you see how by adding structure to your data with Spark SQL, you ca
 
 ### 2.4: PySpark: Analyzing Flight Delays
 
+* [Plotting Spark DataFrames with Plotly](https://plot.ly/ipython-notebooks/apache-spark/)
 * [Which Flight Will Get You There Fastest (FiveThirtyEight)][7]
 
 ### 2.5: SparkR: Introduction to DataFrames

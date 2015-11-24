@@ -25,6 +25,7 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 
 * [Distributed Systems: for fun and profit][1]
 * [Resilience Engineering: Learning to Embrace Failure][2]
+* [Chaos Monkey][2.1]
 
 ### 4.2: Building Systems that Scale
 
@@ -46,11 +47,11 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 
 ### 4.5: A Day in the Life of a Spark Application
 
-* None
+* [Advanced Spark](https://databricks-training.s3.amazonaws.com/slides/advanced-spark-training.pdf)
 
 ### 4.6: How Code Runs: Stages, Tasks, and the Shuffle
 
-* None
+* [Tuning and Debugging in Apache Spark](http://www.slideshare.net/pwendell/tuning-and-debugging-in-apache-spark)
 
 ### 4.7: Spark Deployment: Local and Cluster Modes
 
@@ -63,6 +64,8 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 * [Master Node Setup Script][15]
 * [Worker Node Setup Script][16]
 * [IPython Startup Script][17]
+* [screen][17.1]
+* [tmux][17.2]
 
 ### 4.9: Spark Performance: Monitoring and Optimization
 
@@ -72,6 +75,7 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 ### 4.10: Tuning Your Spark Application
 
 * [Spark Docs (1.4.1): Tuning Spark][20]
+* [`reduceByKey` vs `groupByKey`](https://github.com/databricks/spark-knowledgebase/blob/master/best_practices/prefer_reducebykey_over_groupbykey.md)
 
 ### 4.11: Making Spark Fly: Parallelism
 
@@ -80,9 +84,11 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 ### 4.12: Making Spark Fly: Caching
 
 * [Spark Docs (1.4.1): RDD Persistence][22]
+* [What's the difference between `cache()` and `persist()`](http://stackoverflow.com/questions/26870537/spark-what-is-the-difference-between-cache-and-persist)
 
 [1]: http://book.mixu.net/distsys/
 [2]: queue.acm.org/detail.cfm?id=2371297
+[2.1]: https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 [3]: http://robertgreiner.com/2014/08/cap-theorem-revisited/
 [4]: https://www.comp.nus.edu.sg/~gilbert/pubs/BrewersConjecture-SigAct.pdf
 [5]: http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed
@@ -98,6 +104,8 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 [15]: deploy/master.sh
 [16]: deploy/worker.sh
 [17]: deploy/pyspark.py
+[17.1]: https://www.gnu.org/software/screen/
+[17.2]: https://tmux.github.io/
 [18]: http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf
 [19]: http://spark.apache.org/docs/1.4.1/monitoring.html
 [20]: http://spark.apache.org/docs/1.4.1/tuning.html
