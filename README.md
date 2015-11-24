@@ -47,8 +47,8 @@ Beginning/Intermediate
 
 ### Setup
 
-* [Local Installation](http://www.slideshare.net/jonathandinu/the-data-scientists-guide-to-apache-spark/48)
-* [Cluster Deployment](http://www.slideshare.net/jonathandinu/the-data-scientists-guide-to-apache-spark/69)
+* [Local Installation](http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2015/11/24162356/spark_local_setup.pdf)
+* [Cluster Deployment](http://galvanize-wp.s3.amazonaws.com/wp-content/uploads/2015/11/24162623/spark_cluster_setup.pdf)
 
 #### SparkR with a Notebook
 
