@@ -18,6 +18,10 @@ Once you build a model, you then will evaluate and tune its performance. And fin
 * Build an end-to-end machine learning pipeline with spark.ml and perform model selection and hyperparameter optimization with grid search.
 * See how to properly serialize and deploy a machine learning model trained with Spark
 
+## Examples
+
+* __5.4 - 5.9__: [machine-learning.ipynb](../code/machine-learning.ipynb)
+
 ## References
 
 ### 5.1: Machine Learning on Spark: MLlib and spark.ml

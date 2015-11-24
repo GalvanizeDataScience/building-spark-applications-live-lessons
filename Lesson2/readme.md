@@ -18,6 +18,12 @@ And finally, you see how by adding structure to your data with Spark SQL, you ca
 * Aggregate and filter a large dataset with Spark to visualize locally with ggplot2
 * Understand how to integrate existing SQL workflows with Spark
 
+## Examples
+
+* __2.2 - 2.4__: [pyspark.ipynb](../code/2.2_pyspark.ipynb)
+* __2.5 - 2.7__: [sparkR.ipynb](../code/2.3-sparkR.ipynb)
+* __2.9__: [sparkSQL.ipynb](../code/sparkSQL.ipynb)
+
 ## References
 
 ### 2.1: Introduction to the Spark Programming APIs

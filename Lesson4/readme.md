@@ -19,6 +19,11 @@ And finally we finish by setting up our own cluster on Amazon Web Services enabl
 * Monitor your Spark jobs to tune them and optimize their execution
 * See how Spark can leverage the memory of a cluster to cache data that is used repeated
 
+## Examples
+
+* __4.5 - 4.6__: [spark-internals.ipynb](../code/spark-internals.ipynb)
+* __4.9 - 4.12__: [performance-tuning.ipynb](../code/performance-tuning.ipynb)
+
 ## References
 
 ### 4.1: Introduction to Distributed Systems

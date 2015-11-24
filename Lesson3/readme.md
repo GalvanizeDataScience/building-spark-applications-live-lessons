@@ -24,6 +24,13 @@ With properly vectorized data, you implement your own machine learning model wit
 * Perform k-means clustering on DonorsChoose.org project essays
 * Understand how to interpret the results of k-means, as well as the limitations of the algorithm
 
+## Examples
+
+* __3.3 - 3.5__: [donors_choose_eda.ipynb](../code/donors_choose_eda.ipynb)
+* __3.6 - 3.8__: [natural_language_processing.ipynb](../code/natural_language_processing.ipynb)
+* __3.10 - 3.12__: [kmeans.ipynb](../code/kmeans.ipynb)
+* __Extra__: [nlp_ec2cluster.ipynb](../code/nlp_ec2cluster.ipynb)
+
 ## References
 
 ### 3.1: How Spark Fits into the Data Science Process
