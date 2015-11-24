@@ -18,8 +18,8 @@ And all along the way you learn the common paradigms and abstractions Spark leve
 
 ## Examples
 
-* 1.9: [coin.py](../code/coin.py)
-* 1.10: [big_spenders.py](../code/big_spenders.py)
+* __1.9__: [coin.py](../code/coin.py)
+* __1.10__: [big_spenders.py](../code/big_spenders.py)
 
 ## References
 
