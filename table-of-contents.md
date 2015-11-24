@@ -20,4 +20,6 @@ Lesson 5, “Advanced Applications,” takes you through a KDD cup competition, 
 
 ## About LiveLessons Video Training
 
-The LiveLessons Video Training series publishes hundreds of hands-on, expert-led video tutorials covering a wide selection of technology topics designed to teach you the skills you need to succeed. This professional and personal technology video series features world-leading author instructors published by your trusted technology brands: Addison-Wesley, Cisco Press, IBM Press, Pearson IT Certification, Prentice Hall, Sams, and Que. Topics include: IT Certification, Programming, Web Development, Mobile Development, Home and Office Technologies, Business and Management, and more.  View all LiveLessons on InformIT at: [http://www.informit.com/livelessons](http://www.informit.com/livelessons)
+The LiveLessons Video Training series publishes hundreds of hands-on, expert-led video tutorials covering a wide selection of technology topics designed to teach you the skills you need to succeed. This professional and personal technology video series features world-leading author instructors published by your trusted technology brands: Addison-Wesley, Cisco Press, IBM Press, Pearson IT Certification, Prentice Hall, Sams, and Que. Topics include: IT Certification, Programming, Web Development, Mobile Development, Home and Office Technologies, Business and Management, and more.
+
+View all LiveLessons on InformIT at: [http://www.informit.com/livelessons](http://www.informit.com/livelessons)
