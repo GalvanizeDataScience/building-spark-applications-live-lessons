@@ -52,11 +52,11 @@ Beginning/Intermediate
 
 1. Install [IRKernel](https://github.com/IRkernel/IRkernel)
   
-  ```r
-  install.packages(c('rzmq','repr','IRkernel','IRdisplay'), repos = c('http://irkernel.github.io/', getOption('repos')))
+```r
+install.packages(c('rzmq','repr','IRkernel','IRdisplay'), repos = c('http://irkernel.github.io/', getOption('repos')))
 
-  IRkernel::installspec()
-  ```
+IRkernel::installspec()
+```
 
 2. Set [environment variables](https://github.com/apache/spark/tree/master/R#using-sparkr-from-rstudio):
 
@@ -125,6 +125,7 @@ Spark Streaming, deploying Spark to EC2?
 [0.1]: http://bit.ly/spark-live-lessons
 [1]: https://galvanize.com/resources/spark
 [2]: https://gitter.im/zipfian/building-spark-applications-live-lessons
+[3]: http://data.donorschoose.org/
 [4]: http://kdd.org/kdd-cup/view/kdd-cup-2009/Data
 [5]:https://s3.amazonaws.com/galvanize-example-data/spark-live-lessons-data.zip
 
