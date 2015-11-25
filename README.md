@@ -1,5 +1,7 @@
 # Building Spark Applications Live Lessons
 
+[![Join the chat at https://gitter.im/zipfian/building-spark-applications-live-lessons](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipfian/building-spark-applications-live-lessons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/zipfian/building-spark-applications-live-lessons](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipfian/building-spark-applications-live-lessons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/zipfian/building-spark-applications-live-lessons)
 
 This repository contains the exercises and data for the [Building Spark Applications Live Lessons video series][0]. It provides data scientists and developers with a practical introduction to the Apache Spark framework using Python, R, and SQL.  Additionally, it covers best practices for developing scalable Spark applications for predictive analytics in the context of a data scientist's standard workflow.
