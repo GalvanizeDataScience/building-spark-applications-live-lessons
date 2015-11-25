@@ -18,7 +18,7 @@ In addition to the videos there are many other resources to provide you support 
 
 And/or please do not hesitate to reach out to me directly via email at jondinu@gmail.com or over twitter @clearspandex
 
-> If you find an errors in the code or materials, please open a Github [issue](https://github.com/zipfian/building-spark-applications-live-lessons/issues) in this repository
+> If you find any errors in the code or materials, please open a Github [issue](https://github.com/zipfian/building-spark-applications-live-lessons/issues) in this repository
 
 ## Skill Level
 
