@@ -124,8 +124,8 @@ Spark Streaming, deploying Spark to EC2?
 * [Mailing Lists](https://spark.apache.org/community.html)
 * [Spark Summit](https://spark-summit.org/)
 
-[0]: http://bit.ly/spark-live-lessons
-[0.1]: http://bit.ly/spark-live-lessons
+[0]: http://bit.ly/spark-ds-videos
+[0.1]: https://www.safaribooksonline.com/library/view/building-spark-applications/9780134393490/
 [1]: https://galvanize.com/resources/spark
 [2]: https://gitter.im/zipfian/building-spark-applications-live-lessons
 [3]: http://data.donorschoose.org/
